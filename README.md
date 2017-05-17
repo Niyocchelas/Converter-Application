@@ -1,2 +1,2 @@
 # Converter-Application
-A converter application
+The documentation word document should should outline the application and how it works
